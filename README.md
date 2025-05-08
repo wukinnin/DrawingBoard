@@ -2,7 +2,7 @@
 
 A real-time collaborative drawing application using Java UDP networking, allowing multiple users to draw on a shared canvas simultaneously.
 
-![Demo Animation](demo.gif) *(replace with actual demo gif if available)*
+![Demo Animation](demo.gif)
 
 ## Features ✨
 - **Real-time sync** of drawings across all clients
